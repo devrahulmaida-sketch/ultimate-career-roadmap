@@ -1052,4 +1052,4 @@ Feel free to fork and customize for your own journey!
 ⭐ If this roadmap helps you, star this repository!
 
 [![GitHub](https://img.shields.io/badge/GitHub-devrahulmaida--sketch-181717?style=for-the-badge&logo=github)](https://github.com/devrahulmaida-sketch)
-[![Twitter](https://img.shields.io/badge/Twitter-@rahulmaida-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rahulmaida)
+[![Twitter](https://img.shields.io/badge/Twitter-@rahulmaida-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/dev_RahulMaida)
